@@ -13,8 +13,8 @@ The configuration, image, and documentation for this setup are provided by [Linu
 Clone this repository to your local machine:
 
 ```bash
-    git clone https://github.com/YourUser/your-wireguard.git
-    cd your-wireguard
+    git clone https://github.com/NotBeCursed/Wireguard.git
+    cd Wireguard
 ```
 
 2. **Configuration**

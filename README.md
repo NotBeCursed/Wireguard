@@ -97,5 +97,5 @@ If you're using a firewall, ensure that it allows UDP traffic on the WireGuard p
 ```
 
 ## License
-This project is based on the official linuxserver/wireguard image, maintained by LinuxServer.io. This project is licensed under the MIT License - see the LICENSE file for details.
+This project is based on the official linuxserver/wireguard image, maintained by LinuxServer.io. This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
